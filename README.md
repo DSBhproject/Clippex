@@ -1,7 +1,7 @@
 # Clippex
 Soft Clip plugin for plugdata VST
 
-
+![Clippex GUI](gui.jpg)
 
 🔌 Clippex – Soft Clipper for PlugData
 Clippex is a simple and effective Soft Clip patch designed for PlugData, optimized for use as a VST plugin inside any DAW.
