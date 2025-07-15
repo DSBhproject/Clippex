@@ -22,7 +22,7 @@ Ideal for saturation, loudness shaping, and peak control, Clippex adds transpare
 🧰 Usage
 Just load Clippex in PlugData and insert it in your signal chain. Works seamlessly as a plugin inside your DAW.
 
-You can adjust internal parameters for clipping depth and curve shape depending on your patching needs or desired coloration.
+You can adjust internal parameters for clipping depth and threshold to modify the shape depending on your patching needs or desired coloration.
 
 📁 Included Files
 Clippex.pd → main soft clip patch
