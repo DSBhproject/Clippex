@@ -676,7 +676,7 @@
 #X connect 49 0 25 0;
 #X connect 50 0 20 0;
 #X restore 803 206 pd DAWhost;
-#X obj 761 206 tgl 12 0 \$0-page.link-s \$0-page.link-r DSB\ Audio\ |\ Visit\ Page -148 6 0 14 #adadad #adadad #adadad 0 1;
+#X obj 761 206 tgl 12 0 \$0-page.link-s \$0-page.link-r Diego\ Serrano\ |\ Visit\ Page -148 6 0 14 #adadad #adadad #adadad 0 1;
 #X connect 1 0 3 0;
 #X connect 1 1 3 1;
 #X connect 2 0 1 0;
@@ -689,3 +689,4 @@
 #X connect 30 0 14 1;
 #X connect 31 0 15 0;
 #X connect 32 0 15 1;
+
