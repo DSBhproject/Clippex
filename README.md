@@ -29,6 +29,8 @@ Clippex.pd → main soft clip patch
 
 README.md → this documentation
 
+Clippex.cmb → plugin only for reason users to matching the native experience of the DAW
+
 ✅ Requirements
 PlugData installed
 
