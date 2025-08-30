@@ -30,6 +30,10 @@ Clippex.pd → main soft clip patch
 README.md → this documentation
 
 Clippex.cmb → plugin only for reason users to matching the native experience of the DAW
+In order to use the combinator 2 version, follow the next steps: 
+- Download a install plugdata VST
+- Open it inside the combi and use the plugdata store to download the device "vintage" by Diego Serrano.
+- Save the changes .cmb file.
 
 ✅ Requirements
 PlugData installed
